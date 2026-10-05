@@ -14,7 +14,8 @@ The environment consisted of:
 - Separate public and private route tables
 - A public EC2 web server
 - A private EC2 instance with no direct internet access
-- ![Cloud-VPC-Lab](evidence/evidence/Screenshot 2026-10-01 171014.png)
+- Cloud-VPC-Lab/evidence
+/Screenshot 2026-10-01 171014.png
 ## Network Design
 The VPC used the following addressing scheme:
 
